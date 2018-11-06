@@ -14,7 +14,9 @@ nodejs学习计划，模式如下：
 - [生产者消费者问题](https://zh.wikipedia.org/zh-hans/%E7%94%9F%E4%BA%A7%E8%80%85%E6%B6%88%E8%B4%B9%E8%80%85%E9%97%AE%E9%A2%98)(戴志陶)
 - [master-worker模式](https://blog.csdn.net/hongchh/article/details/79898816)(柯嘉诚)
 - [负载均衡](https://zh.wikipedia.org/wiki/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1)(柯嘉诚)
-
+- [curl工具](https://github.com/Jmingzi/nodejs-learn/blob/master/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/curl.md)(杨明)
+- [套接字概念](https://github.com/Jmingzi/nodejs-learn/blob/master/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/socket.md)(杨明)
+- [IPC概念](https://github.com/Jmingzi/nodejs-learn/blob/master/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/ipc.md)(杨明)
 
 [核心模块](./core)
 
@@ -24,8 +26,8 @@ nodejs学习计划，模式如下：
   - 进程可以无限创建吗？
   - 系统核数与`os.cpus()`数的差异
   - 什么时候创建进程什么时候创建线程？
-- [net模块](./core/net)(进行中) (he)
+- [net模块](./core/net)(已完结) (he)
   - http://blog.jituancaiyun.com/post/net-module-review.html
-
+- [crypto加密](./core/crypto)(进行中)（张方雄）
 
 hint: 规范[文档结构](./article.md)说明
