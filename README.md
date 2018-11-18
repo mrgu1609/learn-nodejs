@@ -17,6 +17,8 @@ nodejs学习计划，模式如下：
 - [curl工具](https://github.com/Jmingzi/nodejs-learn/blob/master/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/curl.md)(杨明)
 - [套接字概念](https://github.com/Jmingzi/nodejs-learn/blob/master/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/socket.md)(杨明)
 - [IPC概念](https://github.com/Jmingzi/nodejs-learn/blob/master/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/ipc.md)(杨明)
+- [加密算法介绍](https://blog.csdn.net/claram/article/details/48098611)(张方雄)
+- [HTTPS 原理详解](https://baijiahao.baidu.com/s?id=1570143475599137&wfr=spider&for=pc)(张方雄)
 
 [核心模块](./core)
 
@@ -28,6 +30,6 @@ nodejs学习计划，模式如下：
   - 什么时候创建进程什么时候创建线程？
 - [net模块](./core/net)(已完结) (he)
   - http://blog.jituancaiyun.com/post/net-module-review.html
-- [crypto加密](./core/crypto)(进行中)（张方雄）
+- [crypto加密](./core/crypto/README.md)(进行中)（张方雄）
 
 hint: 规范[文档结构](./article.md)说明
