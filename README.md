@@ -34,5 +34,6 @@ nodejs学习计划，模式如下：
 - [http](./core/crypto/README.md)(已完结)（王伊默）
   - encode为何是2位十六进制组成
   - 服务器端跨域如何解决
+  - 缓存max-age由谁决定
 
 hint: 规范[文档结构](./article.md)说明
