@@ -30,6 +30,9 @@ nodejs学习计划，模式如下：
   - 什么时候创建进程什么时候创建线程？
 - [net模块](./core/net)(已完结) (he)
   - http://blog.jituancaiyun.com/post/net-module-review.html
-- [crypto加密](./core/crypto/README.md)(进行中)（张方雄）
+- [crypto加密](./core/crypto/README.md)(已完结)（张方雄）
+- [http](./core/crypto/README.md)(已完结)（王伊默）
+  - encode为何是2位十六进制组成
+  - 服务器端跨域如何解决
 
 hint: 规范[文档结构](./article.md)说明
