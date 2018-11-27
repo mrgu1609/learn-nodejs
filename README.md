@@ -35,5 +35,7 @@ nodejs学习计划，模式如下：
   - encode为何是2位十六进制组成
   - 服务器端跨域如何解决
   - 缓存max-age由谁决定
+- [dns原理入门](https://github.com/Jmingzi/nodejs-learn/blob/master/%E8%BF%9B%E9%98%B6/dns.md)
+  - [ppt](https://docs.google.com/presentation/d/1FdMrCSuIH2O1LroqaPaPQPDZ8mivGw7LmHlT4213lcQ/edit#slide=id.p)
 
 hint: 规范[文档结构](./article.md)说明
