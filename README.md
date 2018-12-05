@@ -37,6 +37,6 @@ nodejs学习计划，模式如下：
   - 缓存max-age由谁决定
 - [dns原理入门](https://github.com/Jmingzi/nodejs-learn/blob/master/%E8%BF%9B%E9%98%B6/dns.md)[已完结] (杨明)
   - [ppt](https://docs.google.com/presentation/d/1FdMrCSuIH2O1LroqaPaPQPDZ8mivGw7LmHlT4213lcQ/edit#slide=id.p)
-- [osi模型](./core/osi/osi.key.zip)[已完结] (陈红梅)
+- [OSI模型](./core/osi/osi.key.zip)[已完结] (陈红梅)
 
 hint: 规范[文档结构](./article.md)说明
