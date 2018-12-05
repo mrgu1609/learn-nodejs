@@ -39,4 +39,29 @@ nodejs学习计划，模式如下：
   - [ppt](https://docs.google.com/presentation/d/1FdMrCSuIH2O1LroqaPaPQPDZ8mivGw7LmHlT4213lcQ/edit#slide=id.p)
 - [OSI模型](./core/osi/osi.key.zip)[已完结] (陈红梅)
 
+[项目实践](./项目实践)
+
+  实践模式：以[node服务构成](./进阶/monitor.md)为思想，以基础业务数据需求为支撑，采用[SOA思想](https://www.cnblogs.com/renzhitian/p/6853289.html)，利用zookeeper搭建分布式服务，最后利用rpc作为中间层整合处理
+
+- 典型的电商网站
+    服务拆分
+    - 商品相关 （戴志陶）
+        - 列表
+        - 搜索
+        - 商品详情
+        - 商品结算
+    - 支付  （he）
+    - 订单  （陈红梅）
+        - 订单状态流转
+    - 账户  （张方雄）
+    - 消息  （王伊默）
+        - 新的提醒
+    - 售后  （柯嘉诚）
+        - 售后申请
+        - 售后状态流转
+        - 退款
+    - 数据库服务   （杨明）
+        - 提供对外包装的表操作api
+        - 增删改查字段
+
 hint: 规范[文档结构](./article.md)说明
